@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Usama Malik, Full Stack Software Developer 👨‍💻
 
-Hi, I'm Usama Malik, a self-taught full-stack software engineer from Pakistan. I specialize in designing elegant and user-friendly interfaces with impeccable code quality. I stay up-to-date with the latest industry trends and technologies to provide cutting-edge solutions to my clients. I'm committed to open-source software and continued learning, always pushing the boundaries of what's possible in my field.
+Hi, I'm Usama Malik, a self-taught full-stack software engineer from Pakistan. I specialize in designing elegant and user-friendly interfaces with impeccable code quality. I stay up-to-date with the latest industry trends and technologies to provide cutting-edge solutions. I'm committed to open-source software and continued learning, always pushing the boundaries of what's possible in my field.
 
 ## 🚀 Tech Stack
 
